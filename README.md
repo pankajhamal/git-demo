@@ -1,3 +1,4 @@
 # git-demo
-This is my firs Git repository
+This is my firs Git repository.
+<br>
 Author - Pankaj hamal
